@@ -1,0 +1,8 @@
+Flask
+Flask-SocketIO
+transformers
+torch
+eventlet
+speechrecognition
+pydub
+ffmpeg-python
